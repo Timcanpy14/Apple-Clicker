@@ -1,0 +1,12 @@
+body {
+    background: url("https://imgur.com/QQ1sR7Z") no-repeat 50% 50% fixed;
+    background-size: cover;
+}
+
+div {
+    background-color: antiquewhite; 
+}
+
+#background-color {
+    opacity: 0.5;
+}
